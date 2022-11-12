@@ -4,7 +4,7 @@ function Header(){
     return(
         <header className="border-b p-3 flex justify-between items-center">
             <span className = "font-bold text-2xl">
-                My Breath Taking App
+                My Abysmal App
             </span>
             
             <Navigation/>
