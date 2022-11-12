@@ -3,8 +3,8 @@ import Navigation from './Navigation'
 function Header(){
     return(
         <header className="border-b p-3 flex justify-between items-center">
-            <span className = "font-bold">
-                My App
+            <span className = "font-bold text-2xl">
+                My Awesome App
             </span>
             
             <Navigation/>
